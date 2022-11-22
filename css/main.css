@@ -113,6 +113,8 @@ body {
   font-family: var(--fraunces-font);
   color: var(--very-dark-blue);
   line-height: 1;
+  position: relative;
+  top: -2px;
 }
 /* Small Screens */
 @media (max-width: 767px) {
