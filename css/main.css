@@ -97,7 +97,7 @@ body {
 .product-info .product-type {
   text-transform: uppercase;
   font-family: var(--montserrat-font);
-  font-size: 14px;
+  font-size: 12px;
   color: var(--dark-grayish-blue);
   letter-spacing: 3px;
 }
