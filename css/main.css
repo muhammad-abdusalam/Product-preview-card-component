@@ -86,6 +86,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  row-gap: 24px;
 }
 /* Small Screens */
 @media (max-width: 767px) {
