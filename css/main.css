@@ -193,6 +193,11 @@ body {
   user-select: none;
   position: relative;
   top: -5px;
+  transition: 0.3s;
+}
+.product-info .buy-btn:hover {
+  top: -6px;
+  background-color: hsl(158deg 24% 34%);
 }
 /* Small Screens */
 @media (max-width: 767px) {

@@ -6,9 +6,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-**Desktop Version**
+#### Desktop Version
+
 ![desktop-design](design/desktop-design.png)
-**Mobile Version**
+
+#### Mobile Version
+
 ![mobile-design](design/mobile-design.png)
 
 ### Demo
